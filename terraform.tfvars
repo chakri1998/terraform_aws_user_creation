@@ -1,0 +1,9 @@
+add_policy= "yes"
+add_ssh_key= "yes"
+user_name=["chakradhar","devarakonda","sai"]
+policy_path=["/home/ubuntu/user/policy/policy.json", "/home/ubuntu/user/policy/s3.json","/home/ubuntu/user/policy/policy.json"]
+ssh_key_path=["/home/ubuntu/user/ssh/ssh_key","/home/ubuntu/user/ssh/ssh_key","/home/ubuntu/user/ssh/ssh_key"]
+policy_name=["policy-1","policy-2","policy-3"]
+attach_group="new"
+group_name="final"
+email=["devarakondachakradhar1998@gmail.com","chakradhar1998@outlook.com","devarakondasai9.5@gmail.com"]
